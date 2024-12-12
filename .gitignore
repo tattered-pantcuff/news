@@ -3,3 +3,4 @@ __pycache__/
 db.sqlite3
 newspaper.code-workspace
 news.code-workspace2.code-workspace
+.env
